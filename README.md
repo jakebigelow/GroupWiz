@@ -17,6 +17,7 @@ To use the tool install you will need to run the following command in the direct
 ```
 pip3 install requirements.txt
 ```
+You will also need to pull the API key for you GoPhish instance. Once you have the the API key save it in a .env file located in the same directory as GroupWiz.py
 This will ensure that you have the correct libraries installed on your machine to use GroupWiz.
 
 To use the tool use the following command:
